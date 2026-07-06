@@ -1,11 +1,13 @@
-<h1 align="center">AI Engineer — agentic systems & LLM tooling</h1>
+<h1 align="center">Hi, I'm Maxim 👋</h1>
+
+<p align="center"><b>AI Engineer — agentic systems & LLM tooling</b></p>
 
 <p align="center">
   I build autonomous agents that do real work: multi-step orchestration, tool use, and the
   guardrails that keep them safe in production. Day-to-day in <b>Claude Code</b> and <b>Codex</b>.
 </p>
 
-<!-- Заполни: имя, город, ссылки. Меняй текст ниже под себя. -->
+<p align="center">📍 Moscow</p>
 
 ---
 
@@ -39,7 +41,4 @@
 ### 📫 Reach me
 
 - 📧 gon7187@gmail.com
-<!-- Раскомментируй и заполни нужное:
-- 💬 Telegram: @your_handle
-- 💼 LinkedIn: https://linkedin.com/in/your-handle
--->
+- 💬 Telegram: [@Maxim_0s](https://t.me/Maxim_0s)
