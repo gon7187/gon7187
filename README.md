@@ -32,7 +32,7 @@
 
 ### 📌 Selected work
 
-- **wb-api-client-core** — typed, tested Python client for a large marketplace API. Reusable core shared across several automation services.
+- **[wb-api-client-core](https://github.com/gon7187/wb-api-client-core)** — typed, tested Python client for a large marketplace API. Reusable core shared across several automation services.
 - **E-commerce automation platform** *(private)* — unattended dashboards, ad-campaign optimization, and reporting pipelines processing live marketplace data.
 - **Agentic tooling** *(private)* — custom MCP servers and Claude Code skills for infrastructure ops, research, and knowledge-graph retrieval.
 
